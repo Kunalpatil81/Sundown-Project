@@ -1,11 +1,11 @@
 @font-face {
     font-family: neu ;
-    src: url(./NeueHaasDisplayMediu.ttf);
+    src: url(./NeueHaasDisplayMediu\ \(1\).woff2);
 }
 @font-face {
     font-family: neu;
     font-weight: 100;
-    src: url(./NeueHaasDisplayLight.ttf);
+    src: url(./NeueHaasDisplayLight\ \(1\).woff2);
 }
 
 *{
